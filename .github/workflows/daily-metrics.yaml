@@ -22,10 +22,10 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: omBratteng
+          user: bsaqqa
           template: classic
           base: header, activity, community
-          config_timezone: Europe/Oslo
+          config_timezone: Asia/Singapore
 
           # Language plugin
           plugin_languages: yes
