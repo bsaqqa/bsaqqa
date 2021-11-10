@@ -32,4 +32,4 @@
 - Loves a freshly brewed cup of coffee
 
 
-![Metrics](https://raw.githubusercontent.com/bsaqqa/bsaqqa/github-metrics/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/bsaqqa/bsaqqa/github-metrics.svg)
