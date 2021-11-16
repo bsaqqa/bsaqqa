@@ -14,12 +14,13 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=bsaqqa" target="_blank">
+  <a href="https://app.daily.dev/bsaqqa" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/bsaqqa/bsaqqa/devcard/devcard.svg"
+      src="https://api.daily.dev/devcards/6d8f13dfb8e94d6a9475564a20616499.png?r=yze"
     />
+<!--      https://raw.githubusercontent.com/bsaqqa/bsaqqa/devcard/devcard.svg -->
   </a>
 </div>
 
