@@ -13,6 +13,12 @@
       alt="LinkedIn"
     />
   </a>
+  <a href="https://komarev.com/ghpvc">
+    <img
+    src="https://komarev.com/ghpvc/?username=bsaqqa&style=flat&color=blue" 
+    alt="Profile Views"
+    />
+  </a>
 
   <a href="https://app.daily.dev/bsaqqa" target="_blank">
     <img
