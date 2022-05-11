@@ -30,7 +30,7 @@
 
 <br />
 
-- 🔭 I’m currently working as a Full Stack Web Developer at [Qosoor](https://www.qosoor.sa) and Technical Team Leader at [DCE](https://dce.sa)
+- 🔭 I’m currently working as a Full Stack Web Developer at [Eventful](https://www.eventful.sa) and Technical Team Leader at [DCE](https://dce.sa)
 
 - 🌱 I’m currently learning **SOLID course from Laravel Daily.**
 
