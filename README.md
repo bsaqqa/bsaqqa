@@ -48,7 +48,7 @@
 
 - ⚡ Fun fact **I am a geek 🤓**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bsaqqa" alt="bsaqqa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bsaqqa&count_private=true" alt="bsaqqa" /></a> </p>
 
 [comment]: <> (### Blog posts)
 <!-- BLOG-POST-LIST:START -->
@@ -77,11 +77,11 @@
 <br/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsaqqa&show_icons=true&locale=en&layout=compact" alt="bsaqqa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsaqqa&show_icons=true&locale=en&layout=compact&count_private=true" alt="bsaqqa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bsaqqa&show_icons=true&locale=en" alt="bsaqqa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bsaqqa&show_icons=true&locale=en&count_private=true" alt="bsaqqa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bsaqqa&" alt="bsaqqa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bsaqqa&count_private=true" alt="bsaqqa" /></p>
 
 
 ![Metrics](https://raw.githubusercontent.com/bsaqqa/bsaqqa/main/github-metrics.svg)
